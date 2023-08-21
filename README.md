@@ -10,8 +10,9 @@ To overcome this hurdle, the technique of linearization proves valuable.
 This technique treats the space-dependent volatility as a perturbation to a constant benchmark, enabling the derivation of a closed-form approximation. 
 Notably, the method of linearization extends its applicability to all space-dependent volatility in polynomial forms.
 
-Our research validates the efficacy of this closed-form approximation in fitting WTI option data, as shown by the below plot.
+Our research validates the efficacy of this closed-form approximation in fitting WTI option data, as shown by the below plots.
 A critical insight emerges from our findings: the choice of volatility expression holds a significant influence. 
 This choice essentially defines the benchmark, thereby influencing the accuracy of the approximation.
-
+![QNM_option_price](https://github.com/WuYenSun/Quadratic_Normal_Model/blob/main/calibration_IBV.png)
 ![QNM_option_price](https://github.com/WuYenSun/Quadratic_Normal_Model/blob/main/calibration_price.png)
+
