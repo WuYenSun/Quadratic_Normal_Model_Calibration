@@ -1,4 +1,4 @@
-# Quadratic_Normal_Model
+# Quadratic_Normal_Model_Calibration
 
 This research project delves into a closed-form approximation of the quadratic normal model, wherein the volatility is linked quadratically to the spatial dimension. 
 In the context of the WTI market, the quadratic normal model offers two distinct advantages when compared to the conventional Black (1976) model. 
